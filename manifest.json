@@ -3,7 +3,7 @@
   "name": "3FS \u2014 Three Flowers",
   "short_name": "3FS",
   "description": "Real-time multiplayer card game. Two players. One winner. No mercy.",
-  "start_url": "/3fs/3f.html",
+  "start_url": "/3fs/3F.html",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#050810",
